@@ -1,3 +1,6 @@
+It is a seleniumBase python framework.
+SeleniumBase is a wrapper over selenium web driver.
+
 to execute all the tests in file test_prezent_ai_cases.py run
 
 pytest test_prezent_ai_cases.py -s -v
